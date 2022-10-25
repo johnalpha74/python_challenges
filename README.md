@@ -1,2 +1,2 @@
 # python
-Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.
+One of the best ways to test and practice your skills with Python is by solving coding challenges. In addition to the #100DaysOfCode I am doing daily algorithm challenges in Python. This will help me horn my skills in Python Programming. 
